@@ -13,7 +13,10 @@ A beginner-friendly Python countdown timer you can run in the terminal.
 2. Download or clone this repository.
 3. Open terminal or command prompt.
 4. Run the Python file:
-   ```python countdown.py```
+
+   ```bash
+   python countdown.py
+   ```
 
 ## About
 A small project to practice:
